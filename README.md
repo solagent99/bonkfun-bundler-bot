@@ -108,8 +108,10 @@ yarn start
 
 ---
 
-## 📩 Contact  
-For inquiries, custom integrations, or tailored solutions, reach out via:  
+# 💬 Contact Me
 
-📧 **E-Mail**: [adamglab0731.pl@gmail.com](mailto:adamglab0731.pl@gmail.com)  
-💬 **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)
+If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
+<br>
+#### 🌹 You're always welcome 🌹
+
+Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
